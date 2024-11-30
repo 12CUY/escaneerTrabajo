@@ -32,4 +32,4 @@ Cuarto "A"
 <img src="/img/data2.jpeg" alt="drawing" width="400"/>
 
 # imagen de generar codigo qr
-<img src="/img/data2.jpeg" alt="drawing" width="400"/>
+<img src="/img/data3.jpeg" alt="drawing" width="400"/>
